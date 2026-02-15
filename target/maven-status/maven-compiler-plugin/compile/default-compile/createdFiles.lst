@@ -1,0 +1,5 @@
+com/example/demo/WeatherRecord.class
+com/example/demo/WeatherService.class
+com/example/demo/WeatherController.class
+com/example/demo/WeatherApplication.class
+com/example/demo/WeatherRepository.class
